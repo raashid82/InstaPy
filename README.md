@@ -1,13 +1,6 @@
 <img src="https://i.imgur.com/sJzfZsL.jpg" width="150" align="right">
 
-# InstaPy
-[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/timgrossmann/InstaPy/blob/master/LICENSE)
-[![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)](https://github.com/SeleniumHQ/selenium)
-[![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/timgrossmann/InstaPy)
 
-### Automation Script for “farming” Likes, Comments and Followers on Instagram
-Implemented in Python using the Selenium module.
 
 **Think this tool is worth supporting?**
 Head over to https://github.com/timgrossmann/InstaPy/wiki/How-to-Contribute to find out how you can help.
