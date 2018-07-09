@@ -1,19 +1,27 @@
 <img src="https://i.imgur.com/sJzfZsL.jpg" width="150" align="right">
+دانلود و نصب ربات اینستاگرام
+
+* InstaPyGUI-Setup-0.5.0.exe
+https://github.com/ahmadudin/electron-instaPy-GUI/releases/download/v0.5.0/InstaPyGUI-Setup-0.5.0.exe
+ 
+*download python
+https://www.python.org/downloads/windows/
+
+ 
+*download ChromeDriver new version ورژن 2.4
+https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 
 
-**Think this tool is worth supporting?**
-Head over to https://github.com/timgrossmann/InstaPy/wiki/How-to-Contribute to find out how you can help.
-**Become a part of InstaPy!**
 
-**Have an issue?**
-Head over to https://github.com/timgrossmann/InstaPy/wiki/Reporting-An-Issue to find out how to report this to us and get help.
 
-**Disclaimer**: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I’m also not responsible if your accounts get banned due to extensive use of this tool.
 
-#### Newsletter: [SignUp for the Newsletter here!](http://eepurl.com/cZbV_v)
 
-### Social
+
+
+
+
+
 
 
 
